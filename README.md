@@ -1,3 +1,1 @@
-# calculator
-
 NU SE TINE CONT DE ORDINEA OPERATIILOR
